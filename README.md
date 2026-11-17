@@ -10,7 +10,7 @@
 
 M.S. Candidate in Information Security (expected Feb. 2027), AI Research Lab
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5d498e?style=flat-square)](https://ai-sec-portfolio.github.io/portfolio-blind.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5d498e?style=flat-square)](https://vagus-crypto.github.io/portfolio-blind.html)
 
 </div>
 
@@ -43,7 +43,7 @@ I research AI with a focus on security, covering both **Security for AI** (findi
 **Patent**
 - Apparatus and Method for Detecting Continuous Regions of 3D Objects Based on LiDAR-Camera Fusion. KR Patent Application (filed 2026.07)
 
-More on my [portfolio](https://ai-sec-portfolio.github.io/portfolio-blind.html).
+More on my [portfolio](https://vagus-crypto.github.io/portfolio-blind.html).
 
 ## Tech
 
